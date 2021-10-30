@@ -12,13 +12,13 @@ app.use(express.static('public'));
 
 
 //Rutas
-app.get("/", (req, res) => {
-  console.log("se requiere /");
-  res.json({
-    ok: true,
-    mensaje: "Peticion realizada correctamente",
-  });
-});
+//todo: auth / crear usuario / login / renew
+//todo: crud: eventos
+app.use('/api/auth', require('./routes/auth'));
+
+
+
+
 
 //Escuchar peticiones
 app.listen(process.env.PORT, () => {
