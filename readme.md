@@ -11,3 +11,6 @@ npm i express
 
 dotenv
 npm i dotenv
+
+express validator
+npm i express-validator
