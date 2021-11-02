@@ -14,3 +14,6 @@ npm i dotenv
 
 express validator
 npm i express-validator
+
+mongoose
+npm i mongoose
