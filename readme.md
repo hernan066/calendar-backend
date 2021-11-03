@@ -23,3 +23,6 @@ npm i bcryptjs
 
 jst
 npm i jsonwebtoken
+
+cors
+npm i cors
