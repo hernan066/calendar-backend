@@ -20,3 +20,6 @@ npm i mongoose
 
 bcryptjs
 npm i bcryptjs
+
+jst
+npm i jsonwebtoken
