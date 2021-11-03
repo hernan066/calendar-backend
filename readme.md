@@ -17,3 +17,6 @@ npm i express-validator
 
 mongoose
 npm i mongoose
+
+bcryptjs
+npm i bcryptjs
