@@ -1,28 +1,28 @@
-Instalacion hechas:
+<h1>Instalacion hechas:</h1>
 
-package.json
+<h2>Package.json </h2>
 npm init -y
 
-nodemon
+<h2>Nodemon </h2>
 npm i nodemon -g
 
-express
+<h2>Express </h2>
 npm i express
 
-dotenv
+<h2>Dotenv </h2>
 npm i dotenv
 
-express validator
+<h2>Express validator </h2>
 npm i express-validator
 
-mongoose
+<h2>Mongoose </h2>
 npm i mongoose
 
-bcryptjs
+<h2>Bcryptjs </h2>
 npm i bcryptjs
 
-jst
+<h2>Jst </h2>
 npm i jsonwebtoken
 
-cors
+<h2>Cors </h2>
 npm i cors
